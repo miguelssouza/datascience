@@ -13,7 +13,7 @@ O que você encontrará aqui:
 
 **Projetos:**
 
-* [StudentsClustering](https://github.com/miguelssouza/datascience/tree/main/StudentsClustering) - Desenvolvimento de um modelo de classificação para identificar estudantes em risco de baixo desempenho acadêmico devido a problemas de saúde mental, visando a implementação de estratégias de intervenção.
+* [StudentHealth](https://github.com/miguelssouza/datascience/tree/main/StudentHealth) - Desenvolvimento de um modelo de classificação para identificar estudantes em risco de baixo desempenho acadêmico devido a problemas de saúde mental, visando a implementação de estratégias de intervenção.
 
 **Tecnologias:**
 
