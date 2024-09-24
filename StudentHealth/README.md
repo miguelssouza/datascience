@@ -24,9 +24,8 @@ Para exemplificar essa abordagem, realizamos uma extração e análise de dados 
 
 
 
-## Etapas:
-
-### Coleta
+## Sobre os dados:
+- **Fonte: [Kaggle](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis)**
 
 - **Quantidade de alunos:** 1100
 
