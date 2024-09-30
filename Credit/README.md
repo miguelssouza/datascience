@@ -1,5 +1,7 @@
 ## Análise Exploratória de Transações de Cartão de Crédito
 
+**Projeto em desenvolvimento.**
+
 **Descrição:**
 
 Este repositório contém o código e os resultados de uma análise exploratória de um conjunto de dados de transações de cartão de crédito. O objetivo principal é identificar padrões de consumo, segmentar clientes e descobrir oportunidades de negócio.
