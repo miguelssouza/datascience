@@ -14,6 +14,7 @@ O que você encontrará aqui:
 **Projetos:**
 
 * [StudentHealth](https://github.com/miguelssouza/datascience/tree/main/StudentHealth) - Desenvolvimento de um modelo de classificação para identificar estudantes em risco de baixo desempenho acadêmico devido a problemas de saúde mental, visando a implementação de estratégias de intervenção.
+* [B3ETL](https://github.com/miguelssouza/B3ETL.git) - Este repositório contém o código fonte e os recursos necessários para implementar um pipeline de ETL (Extract, Transform, Load) que extrai dados da API da B3, transforma-os em um formato estruturado e carga-os em um data lake na AWS. O objetivo é fornecer um conjunto de dados consistente e completo para análise do mercado financeiro brasileiro.
 
 **Tecnologias:**
 
