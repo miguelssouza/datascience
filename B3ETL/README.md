@@ -2,7 +2,7 @@
 
 ![B3-ETL Diagram](./static/img/data_animation.gif)
 
-Este repositório contém o código fonte e os recursos necessários para implementar um pipeline de ETL (Extract, Transform, Load) que extrai dados da API da B3, transforma-os em um formato estruturado e carga-os em um data lake na AWS. O objetivo é fornecer um conjunto de dados consistente e completo para análise do mercado financeiro brasileiro.
+Este repositório contém o código fonte e os recursos necessários para implementar um pipeline de ETL (Extract, Transform, Load) que extrai dados da API da B3 diariamente, transforma-os em um formato estruturado e carga-os em um data lake na AWS. O objetivo é fornecer um conjunto de dados consistente, histórico e completo para análise do mercado financeiro brasileiro.
 
 **Tecnologias e Serviços AWS:**
 
