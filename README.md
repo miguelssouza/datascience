@@ -22,4 +22,4 @@ O que você encontrará aqui:
 * **Linguagens:** Python
 * **Bibliotecas:** Pandas, NumPy, Scikit-learn, Plotly
 * **Ferramentas:** Jupyter Notebook, SQL
-* **Cloud:** AWS (S3,EventBridge,Lambda,Step Functions, Athena)
+* **Cloud:** AWS (S3,EventBridge,Lambda,Step Functions, Athena)
