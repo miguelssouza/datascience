@@ -4,7 +4,7 @@
 
 **Descrição:**
 
-Este repositório contém o código e os resultados de uma análise exploratória de um conjunto de dados de transações de cartão de crédito. O objetivo principal é identificar padrões de consumo, segmentar clientes e descobrir oportunidades de negócio.
+Através da análise de dados de cartão de crédito, este repositório busca identificar padrões de consumo para segmentar clientes e gerar insights acionáveis para o desenvolvimento de estratégias de marketing direcionadas, otimização de campanhas e identificação de novas oportunidades de negócio.
 
 **Tecnologias:**
 
