@@ -1,4 +1,4 @@
-## Portfólio de Projetos de Data Science
+## Portfólio de Projetos de Data Science 🧪
 
 **Descrição:**
 
